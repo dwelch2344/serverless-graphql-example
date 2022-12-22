@@ -9,7 +9,7 @@
     "graphql-tools": "4.0.5",
     "middy": "0.30.4",
     "serverless-domain-manager": "^3.3.0",
-    "serverless-offline": "^5.12.0",
+    "serverless-offline": "^12.0.3",
     "serverless-prune-plugin": "^1.4.1"
   },
   "devDependencies": {},
